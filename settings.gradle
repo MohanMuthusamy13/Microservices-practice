@@ -1,0 +1,8 @@
+rootProject.name = 'Microservices-practice'
+include 'product-service'
+include 'order-service'
+include 'inventory-service'
+include 'discovery-service'
+include 'api-gateway'
+include 'notification-service'
+
